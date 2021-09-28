@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MoveLayout</string>
+
+    <!-- Activity Main -->
+    <string name="welcome">WELCOME</string>
+    <string name="desc_wel">already in app before?</string>
+    <string name="awalan">Yes, sign in my account</string>
+    <string name="awalan2">No, sign up please</string>
+
+    <!-- Sign In -->
+    <string name="signin">Sign In</string>
+    <string name="phone">Phone</string>
+    <string name="next">next</string>
+    <string name="des_sigi">sign in to continue using app</string>
+    <string name="sisi">no one account? create one!</string>
+
+    <!-- Sign Up -->
+    <string name="signup">Sign Up</string>
+    <string name="create">Create account!</string>
+    <string name="mob">use mobile phone number</string>
+
+
+
+</resources>
